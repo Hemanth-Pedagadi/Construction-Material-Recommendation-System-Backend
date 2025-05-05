@@ -13,7 +13,7 @@ CORS(app)
 app.config['SECRET_KEY'] = 'your_secret_key'
 
 # MongoDB setup
-client = MongoClient("mongodb+srv://SanthoshKumar12:Santhosh12@cluster-0.yrvboac.mongodb.net/")
+client = MongoClient("mongodb+srv://hemanthd065:Hemanth12@hemanth.hobyd9g.mongodb.net/")
 
 # User database
 user_db = client["user_db"]
