@@ -24,7 +24,7 @@ admin_db = client["admin_db"]
 admin_collection = admin_db["admins"]
 
 # Material database
-db = client["Material_db"]
+db = client["Materials_db"]
 collection = db["Materials"]
 
 
